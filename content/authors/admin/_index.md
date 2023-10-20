@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Aero Leo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: CEO
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: Jiezhi Tech
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My areas of interest include Rubik's cube & EDC design, photographing and embedded computer systems.
 
 #interests:
 #- Artificial Intelligence
@@ -47,10 +47,10 @@ social:
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/xjears
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/xjears
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,6 +66,8 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Meet Aero Leo, the dynamic CEO at the helm of Jiezhi Tech, an organization that is carving its niche in the world of embedded computer systems. As a leader, Aero is driven by innovation and a commitment to delivering exceptional solutions to clients.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Aero's professional interests are diverse, but Rubik's cube & EDC (Everyday Carry) design holds a special place in his repertoire. The intricate engineering and complexity of these items captivate him, and he applies the same problem-solving and creative thinking to his role at Jiezhi Tech.
+
+When not immersed in the world of tech, Aero indulges in his passion for photography. He believes that just like a well-designed system or a solved Rubik's cube, a great photograph captures a moment of clarity amidst the world's complexity. Each photo is a reflection of perspective and the ability to view things differently, principles that he instills in his professional life.
