@@ -6,7 +6,7 @@ title: Aero Leo
 superuser: true
 
 # Role/position
-role: CEO
+role: Engineer
 
 # Status emoji
 status:
