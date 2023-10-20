@@ -66,8 +66,12 @@ social:
 #email: ""
 ---
 
-Meet Aero Leo, the dynamic CEO at the helm of Jiezhi Tech, an organization that is carving its niche in the world of embedded computer systems. As a leader, Aero is driven by innovation and a commitment to delivering exceptional solutions to clients.
+Meet Aero Leo, the dynamic engineer at the forefront of Jiezhi Tech, a pioneer in the world of embedded computer systems. His main responsibilities lie in IoT devices deployment and intricate technical operations. As an innovator, Aero is fueled by a passion for delivering top-of-the-line solutions to clients.
 
-Aero's professional interests are diverse, but Rubik's cube & EDC (Everyday Carry) design holds a special place in his repertoire. The intricate engineering and complexity of these items captivate him, and he applies the same problem-solving and creative thinking to his role at Jiezhi Tech.
+Aero's professional interests are diverse, yet they converge at the crossroads of technology and practical design. Much like solving a Rubik’s cube, he applies problem-solving, creative thinking, and meticulous attention to detail in his line of work.
 
-When not immersed in the world of tech, Aero indulges in his passion for photography. He believes that just like a well-designed system or a solved Rubik's cube, a great photograph captures a moment of clarity amidst the world's complexity. Each photo is a reflection of perspective and the ability to view things differently, principles that he instills in his professional life.
+Aero is a keen follower of the latest digital trends and frequently keeps himself updated with the newest digital circle news. This passion extends to his appreciation for industrial design and keyboard photography. His photographs magnify the intricate designs and craftsmanship inherent in everyday objects, presenting them from a fresh perspective.
+
+Among his peers, Aero is known for his aptitude in computer assembly, reflecting his skillset as an ancient programmer. His seasoned years in the tech field serve as a testament to his wide-ranging technical capabilities.
+
+Outside the bounds of technical expertise, Aero cherishes his hobby of photography. He believes that akin to a well-orchestrated system or a solved Rubik’s cube, a great photograph captures a transient moment of clarity amid the world's intricacies. Each photograph symbolizes Aero's unique perspective and creative thinking, principles he enthusiastically incorporates into his professional life at Jiezhi Tech.
