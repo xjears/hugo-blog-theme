@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **Areo Leo**, a Industrial Internet of Things Engineer at Jiezhi Tech.
 
 Check out my [CV](/about/) and blog posts below 🌈
