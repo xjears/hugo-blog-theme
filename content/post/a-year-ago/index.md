@@ -88,5 +88,7 @@ For those who've read this far, you must truly love fidget spinners. It took an 
 In the end, it’s through fidget spinners that I've met so many people and underwent so many experiences. Even though my focus on designing spinners has waned lately, these little toys remain an unforgettable part of my life.
 
 With my upcoming examination in mind, 
+
 Aero Leo (X-JEARS),
+
 June 3, 8102 ;) 
